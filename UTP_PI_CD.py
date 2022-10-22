@@ -25,13 +25,13 @@ def TUJUAN():
             TUJUAN()
     
     except :
-        print('Silakan pilih 1 - 3')
+        print('Silakan pilih 1 - 4')
         TUJUAN()
     
     return tujuan
 
 while True:
-    print('Silakan pilih 1 - 3')
+    print('Silakan pilih 1 - 4')
     tuju = TUJUAN()
     if tuju == 1 or tuju == 2 or tuju == 3 or tuju == 4:
         break
