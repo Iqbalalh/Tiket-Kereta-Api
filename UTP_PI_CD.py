@@ -6,7 +6,7 @@ nama = str (input("Masukkan Nama Anda : "))
 print("")
 
 def TUJUAN():
-    tujuan = ["1. Bekri","2. Kota Bumi", "3. Baturaja", "4.Palembang"]
+    tujuan = ["1. Bekri","2. Kota Bumi", "3. Baturaja", "4. Palembang"]
     print('Pilih Destinasi : ')
     for i in tujuan:
         print(i)
